@@ -1,0 +1,6 @@
+(function(){var loadHandler=window['sl_{85406897-669E-496C-A697-F6C915FA3587}'];loadHandler&&loadHandler(8, '<div id="spr0_70398d13"><div id="spr1_70398d13" class="kern slide"><img id="img3_70398d13" src="data/img32.jpg" width="720px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_70398d13" class="kern slide"><div id="spr3_70398d13" style="left:39.685px;"><img id="img0_70398d13" src="data/img63.jpg" width="680" height="540" alt="" style="left:0.157px;"/></div><div id="spr4_70398d13" style="left:94px;"><img id="img1_70398d13" src="data/img64.png" width="602" height="128" alt="What is Agar?"/></div><div id="svg0_70398d13" style="left:39.685px;top:490.776px;"><svg width="115" height="42" viewBox="0 0 115 42"><path fill="#ffffff" d="M0,0 h114.601 v41.143 h-114.601 Z"/></svg></div><div id="spr5_70398d13" style="left:40px;top:108px;"><img id="img2_70398d13" src="data/img65.png" width="337" height="395" alt="Made from red algae\
+Contains polysaccharides\
+Is not a food source for bacteria or fungi\
+Agar is melted by boiling, and it solidifies at 42°C.\
+So at room temperature it’s pretty solid!\
+"/></div></div></div>');})();
