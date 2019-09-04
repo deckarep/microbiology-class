@@ -1,0 +1,5 @@
+(function(){var loadHandler=window['sl_{4164D882-7699-438B-8CFC-43F1F617A2C3}'];loadHandler&&loadHandler(15, '<div id="spr0_c30fce6"><div id="spr1_c30fce6" class="kern slide"><img id="img2_c30fce6" src="data/img22.jpg" width="720px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_c30fce6" class="kern slide"><div id="spr3_c30fce6"><img id="img0_c30fce6" src="data/img78.jpg" width="720" height="540" alt=""/></div><div id="svg0_c30fce6" style="left:-2px;top:254.644px;"><svg width="412" height="31" viewBox="-1 -1 412 31"><path fill="#000000" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" d="M1,1 h407.613 v26.71 h-407.613 Z"/></svg></div><div id="spr4_c30fce6" style="left:36px;top:258.75px;"><img id="img1_c30fce6" src="data/img79.png" width="299.25" height="25.5" alt="Mycobacterium tuberculosis\
+Mycobacterium leprae\
+Mycobacterium lepromatosis\
+Mycobacterium smegmatis\
+"/></div></div></div>');})();

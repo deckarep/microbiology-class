@@ -1,0 +1,5 @@
+(function(){var loadHandler=window['sl_{5CE4533D-37A7-443D-9964-23EE3E11B3F1}'];loadHandler&&loadHandler(5, '<div id="spr0_c1f62eb"><div id="spr1_c1f62eb" class="kern slide"><img id="img2_c1f62eb" src="data/img22.jpg" width="720px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_c1f62eb" class="kern slide"><div id="spr3_c1f62eb"><img id="img0_c1f62eb" src="data/img26.jpg" width="720" height="542.25" alt="" style="top:0.056px;"/></div><div id="spr4_c1f62eb" style="left:308.25px;top:396.75px;"><img id="img1_c1f62eb" src="data/img27.png" width="393.75" height="117" alt="Requires an acidic dye\
+Like nigrosin\
+No heat fixing involved, so cells are still alive!\
+That’s why we’re going to have to disinfect these slides before we throw them in the sharps box.\
+Cells appear light against dark background"/></div></div></div>');})();
