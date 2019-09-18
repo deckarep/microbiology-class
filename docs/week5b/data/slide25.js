@@ -1,0 +1,5 @@
+(function(){var loadHandler=window['sl_{7CDA62E7-4C52-4615-A557-3D28E3A2679C}'];loadHandler&&loadHandler(24, '<div id="spr0_52b05959"><div id="spr1_52b05959" class="kern slide"><img id="img4_52b05959" src="data/img21.jpg" width="720px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_52b05959" class="kern slide"><div id="spr3_52b05959" style="left:2.5px;top:2.25px;"><img id="img0_52b05959" src="data/img95.png" width="278.25" height="59.25" alt="Tetanus\
+"/></div><div id="spr4_52b05959" style="left:54px;top:81.75px;"><img id="img1_52b05959" src="data/img96.png" width="528.75" height="207.75" alt="Caused by obligate anaerobe Clostridium tetani found in soil contaminated with animal feces\
+Transmission = parenteral (usually a puncture wound)\
+\
+"/></div><div id="spr5_52b05959" style="left:352.411px;top:292.605px;"><img id="img2_52b05959" src="data/img97.png" width="331.5" height="197.25" alt="" style="left:19.543px;top:-0.135px;"/></div><div id="spr6_52b05959" style="left:10.799px;top:310.99px;"><img id="img3_52b05959" src="data/img98.jpg" width="336.75" height="193.5" alt="" style="left:0.128px;top:-0.141px;"/></div></div></div>');})();

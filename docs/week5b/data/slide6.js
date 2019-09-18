@@ -1,0 +1,8 @@
+(function(){var loadHandler=window['sl_{7CDA62E7-4C52-4615-A557-3D28E3A2679C}'];loadHandler&&loadHandler(5, '<div id="spr0_52af715b"><div id="spr1_52af715b" class="kern slide"><img id="img3_52af715b" src="data/img21.jpg" width="720px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_52af715b" class="kern slide"><div id="spr3_52af715b" style="left:0.25px;top:0.25px;"><img id="img0_52af715b" src="data/img30.jpg" width="720" height="114" alt="Endospore Stain"/></div><div id="spr4_52af715b" style="left:7.75px;top:136.5px;"><img id="img1_52af715b" src="data/img31.png" width="701.25" height="360" alt="Prepare 2 bacterial smears (on separate slides), using the appropriate amount of bacteria and air dry.\
+Heat-fix the bacterial smear (and hopefully make those endospores somewhat permeable) by running the slide through the flame 40 times!\
+Quickly place the slide over the staining rack and flood the slide with warmed malachite green. \
+Allow the stain to incubate for 25 minutes, add more warm malachite green as needed to prevent the slide from drying out.\
+Rinse the slide thoroughly with deionized H2O.\
+Flood with aqueous safranin for 1 minute. \
+Rinse with deionized H2O.\
+Blot dry with bibulous paper and view under oil immersion (1000x)."/></div><div id="spr5_52af715b" style="left:18.75px;top:0.75px;"><img id="img2_52af715b" src="data/img32.png" width="119.25" height="88.5" alt="cOLD"/></div></div></div>');})();
