@@ -1,0 +1,6 @@
+(function(){var loadHandler=window['sl_{B4CC40D6-B5A2-4B6F-8BB8-97E79A4DF6A6}'];loadHandler&&loadHandler(37, '<div id="spr0_3accb33"><div id="spr1_3accb33" class="kern slide"><img id="img4_3accb33" src="data/img124.jpg" width="720px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_3accb33" class="kern slide"><div id="spr3_3accb33" style="left:158.305px;"><img id="img0_3accb33" src="data/img205.jpg" width="564.75" height="540" alt="http://www.pf.chiba-u.jp/gallery/img/fungi/a/Aspergillus_niger_colony.jpg" style="left:-0.057px;"/></div><div id="spr4_3accb33" style="left:15px;top:15px;"><img id="img1_3accb33" src="data/img206.png" width="445.5" height="58.5" alt="Aspergillus niger"/></div><div id="spr5_3accb33" style="left:-23px;top:292px;"><img id="img2_3accb33" src="data/img207.png" width="192.75" height="248.25" alt="" style="left:42.01px;top:-0.094px;"/></div><div id="spr6_3accb33" style="left:21px;top:79.5px;"><img id="img3_3accb33" src="data/img208.png" width="631.5" height="266.25" alt="Common environmental mold \
+Found in the soil\
+Causes black mold on fruits and vegetables\
+Pathogenic (sometimes)\
+Aspergillosis (fungal lung infection)\
+Otomycosis (fungal ear infection)"/></div></div></div>');})();

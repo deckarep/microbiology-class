@@ -1,0 +1,5 @@
+(function(){var loadHandler=window['sl_{B4CC40D6-B5A2-4B6F-8BB8-97E79A4DF6A6}'];loadHandler&&loadHandler(13, '<div id="spr0_3abb84c"><div id="spr1_3abb84c" class="kern slide"><img id="img3_3abb84c" src="data/img8.jpg" width="720px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_3abb84c" class="kern slide"><div id="spr3_3abb84c" style="top:0.194px;"><img id="img0_3abb84c" src="data/img86.jpg" width="720" height="540" alt=""/></div><div id="spr4_3abb84c" style="left:3.25px;top:11.5px;"><img id="img1_3abb84c" src="data/img87.png" width="219" height="125.25" alt="Lab 12-1: FUNGI"/></div><div id="spr5_3abb84c" style="left:7px;top:408px;"><img id="img2_3abb84c" src="data/img88.png" width="135.75" height="114.75" alt="*You are only  \
+  responsible \
+  for the info \
+  in this \
+  PowerPoint."/></div></div></div>');})();

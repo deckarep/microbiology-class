@@ -1,0 +1,7 @@
+(function(){var loadHandler=window['sl_{B4CC40D6-B5A2-4B6F-8BB8-97E79A4DF6A6}'];loadHandler&&loadHandler(20, '<div id="spr0_3ac2a21"><div id="spr1_3ac2a21" class="kern slide"><img id="img5_3ac2a21" src="data/img8.jpg" width="720px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_3ac2a21" class="kern slide"><div id="spr3_3ac2a21" style="left:442.5px;top:4px;"><img id="img0_3ac2a21" src="data/img120.png" width="235.5" height="74.25" alt="Yeast"/></div><div id="spr4_3ac2a21" style="left:18px;top:43.5px;"><img id="img1_3ac2a21" src="data/img125.png" width="405" height="417.75" alt="Common yeasts:\
+Saccharomyces cerevisiae                (aka, Baker’s yeast)\
+Usually non-pathogenic\
+Can be found in and on most humans\
+\
+Candida albicans \
+human pathogen – causes CANDIDIASIS in the mouth (oral thrush), skin, and/or genitals (yeast infection, forms of diaper rash)"/></div><div id="spr5_3ac2a21" style="left:432px;top:89.498px;"><img id="img2_3ac2a21" src="data/img126.jpg" width="288" height="160.5" alt="https://microbewiki.kenyon.edu/images/9/9a/Saccromyces.jpg" style="top:0.108px;"/></div><div id="spr6_3ac2a21" style="left:432px;top:473.143px;"><img id="img3_3ac2a21" src="data/img127.jpg" width="199.5" height="288" alt="http://www3.imperial.ac.uk/icimages?p_imgid=78126" style="left:0.048px;"/></div><div id="spr7_3ac2a21" style="left:0px;top:406.286px;"><img id="img4_3ac2a21" src="data/img128.jpg" width="102.75" height="133.5" alt="" style="left:0.04px;top:0.08px;"/></div></div></div>');})();
