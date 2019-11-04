@@ -1,0 +1,6 @@
+(function(){var loadHandler=window['sl_{822C9D26-1F05-4E40-B15E-9541F3E2E1F4}'];loadHandler&&loadHandler(22, '<div id="spr0_2232c233"><div id="spr1_2232c233" class="kern slide"><img id="img4_2232c233" src="data/img51.jpg" width="720px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_2232c233" class="kern slide"><div id="spr3_2232c233" style="left:262.5px;"><img id="img0_2232c233" src="data/img108.jpg" width="457.5" height="540" alt=""/></div><div id="spr4_2232c233" style="left:-1.25px;top:-1.25px;"><img id="img1_2232c233" src="data/img109.png" width="498.75" height="78.75" alt="Streptococcus"/></div><div id="spr5_2232c233" style="left:17.25px;top:71.25px;"><img id="img2_2232c233" src="data/img110.png" width="338.25" height="408.75" alt="Group A Strep (GAS)\
+Streptococcus pyogenes can cause strep throat (a type of pharyngitis)\
+Group B Strep (GBS)\
+Streptococcus agalactiae causes infections (sepsis, pneumonia, and meningitis) in newborns and the immunocompromised\
+ Groups A and B are both  \
+     β-hemolytic"/></div><div id="spr6_2232c233" style="left:317.25px;top:144.75px;"><img id="img3_2232c233" src="data/img111.png" width="126" height="141.75" alt=""/></div></div></div>');})();
